@@ -26,10 +26,10 @@ categories:
   - Connectivity
   - Location
   - Privacy
-  - UserInterface
-  - AndroidPlatform
-  - JetpackComposeA11y
-  - JetpackComposePermissions
+  - User Interface
+  - Android Platform
+  - Jetpack Compose Accessibility
+  - Jetpack Compose Permissions
 solutions:
   - Mobile
   - Platform
@@ -38,4 +38,4 @@ solutions:
 languages:    [Kotlin]
 github:       android/platform-samples
 level:        INTERMEDIATE
-license: apache2
+license:      Apache-2.0
